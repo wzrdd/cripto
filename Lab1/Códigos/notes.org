@@ -1,0 +1,9 @@
+#+title: Notes
+
+* [X] Paso 1
+- ¿Debería llevar tests automáticos?
+Ejemplo:
++ input: criptografia y seguridad en redes
++ output: larycxpajorj h bnpdarmjm nw anmnb
+* [ ] Paso 2
+* [ ] Paso 3
