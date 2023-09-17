@@ -1,0 +1,4 @@
+Cookie:  PHPSESSID=c1563ab49faa811139c3bdc9e9580558; security=low
+GET /vulnerabilities/brute/?username=1337&password=12345678&Login=Login HTTP/1.0
+Host: 127.0.0.1:4280
+User-Agent: Mozilla/5.0 (Hydra)

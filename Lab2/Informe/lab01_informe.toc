@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Descripción de actividades}{2}{section.1}%
+\contentsline {section}{\numberline {2}Desarrollo de actividades según criterio de rúbrica}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Levantamiento de docker para correr DVWA (dvwa)}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Redirección de puertos en docker (dvwa)}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Obtención de consulta a replicar (burp)}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Identificación de campos a modificar (burp)}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Obtención de diccionarios para el ataque (burp)}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Obtención de al menos 2 pares (burp)}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Obtención de código de inspect element (curl)}{8}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Utilización de curl por terminal (curl)}{9}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Demuestra 5 diferencias (curl)}{9}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Instalación y versión a utilizar (hydra)}{10}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Explicación de comando a utilizar (hydra)}{10}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}Obtención de al menos 2 pares (hydra)}{11}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}Explicación paquete curl (tráfico)}{11}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}Explicación paquete burp (tráfico)}{12}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15}Explicación paquete hydra (tráfico)}{12}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16}Mención de las diferencias (tráfico)}{12}{subsection.2.16}%
+\contentsline {subsection}{\numberline {2.17}Detección de SW (tráfico)}{14}{subsection.2.17}%
