@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Descripción de actividades}{2}{section.1}%
+\contentsline {section}{\numberline {2}Desarrollo (PASO 1)}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Identificar en qué se destaca la red del informante del resto}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Explica matemáticamente porqué se requieren más de 5000 paquetes para obtener la pass}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Obtiene la password con ataque por defecto de aircrack-ng}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Indica el tiempo que demoró en obtener la password}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Descifra el contenido capturado}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Describe como obtiene la url de donde descargar el archivo}{5}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Desarrollo (PASO 2)}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Indica script para modificar diccionario original}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Cantidad de passwords finales que contiene rockyou\_mod.dic}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Desarrollo (Paso 3)}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Obtiene contraseña con hashcat con potfile}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Identifica nomenclatura del output}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Obtiene contraseña con hashcat sin potfile}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Identifica nomenclatura del output}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Obtiene contraseña con aircrack-ng}{11}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Identifica y modifica parámetros solicitados por pycrack}{12}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Obtiene contraseña con pycrack}{13}{subsection.4.7}%
